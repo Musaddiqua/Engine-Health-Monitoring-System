@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Adaptive Engine Health Monitoring System
 
 **Imagine Cup 2026 Project**
@@ -314,3 +315,7 @@ Built for Imagine Cup 2026.
 
 
 
+=======
+# Engine-Health-Monitoring-System
+engine
+>>>>>>> a5aad912697dac7af9f106ab09768946eb819878
