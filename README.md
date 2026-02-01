@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Adaptive Engine Health Monitoring System
 
 **Imagine Cup 2026 Project**
