@@ -303,19 +303,14 @@ curl http://localhost:8000/engine-status?vehicle_id=VH_01
 ## 👥 Team & Credits
 
 Built for Imagine Cup 2026.
+@SameerHawal - Data Analytics 
+@Musaddiqua - Machine learning and Testing, UI
 
-## 📄 License
-
-[Specify your license]
 
 ---
 
 **Questions?** Check the API documentation at http://localhost:8000/docs when the server is running.
 
-
-
-
 =======
-# Engine-Health-Monitoring-System
-engine
->>>>>>> a5aad912697dac7af9f106ab09768946eb819878
+# Engine-Health-Monitoring-System-engine
+a5aad912697dac7af9f106ab09768946eb819878
